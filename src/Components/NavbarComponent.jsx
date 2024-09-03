@@ -31,7 +31,7 @@ function NavbarComponent() {
                 navbarScroll
               >
                 <Link className="nav-link" to="/" href="#action1">
-                  Home
+                  Shop
                 </Link>
                 <Link className="nav-link" to="/about" href="#action2">
                   About
