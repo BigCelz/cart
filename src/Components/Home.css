@@ -1,0 +1,17 @@
+.Home{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.card-img{
+    height: 400px;
+}
+
+.text-price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.classic{
+    font-weight: 700;
+}
